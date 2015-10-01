@@ -45,11 +45,6 @@ public class codingbootcamp {
 	}
 	
 	public static void main(String[] args) {
-//		bitFlag bf = new bitFlag();
-//		
-//	    for (int i=0; i<Integer.MAX_VALUE; i++) {
-//	    	bf.add(i);
-//	    }
-//	    System.out.println(bf.findMissing());
+
     }
 }
