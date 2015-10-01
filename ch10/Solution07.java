@@ -25,7 +25,7 @@ class bitFlag {
 				break;
 			}
 		}
-		return inx << 5 + tmp;
+		return (inx << 5) + tmp;
 	}
 }
 
